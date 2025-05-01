@@ -1,0 +1,160 @@
+2025-05-01 23:02:34.678 [main] INFO  com.rs.mv.mvvs.Startup - [LSP:100101]ROCKET MV BASIC EXTENSION to start
+2025-05-01 23:02:34.733 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100102]start pip server
+2025-05-01 23:02:34.955 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100103]ROCKET MV BASIC EXTENSION start successful
+2025-05-01 23:02:35.081 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:200101]load all workspace folders start
+2025-05-01 23:02:35.081 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:20010201]root uri: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:02:35.084 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200103]workspace contains workspace folder: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:02:35.118 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200104]workspace folder will be cached: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:02:35.120 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010101]config load start
+2025-05-01 23:02:35.120 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010102]project config path is : C:/Users/MATHESKUMAR/Desktop/mano/.rmv/config
+2025-05-01 23:02:35.122 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010103]resource config path is : /
+2025-05-01 23:02:35.122 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010104]user config path is : C:/Users/MATHESKUMAR
+2025-05-01 23:02:35.139 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [COMMON:500101]parent file(C:/Users/MATHESKUMAR/.rmv/config/format.mvbasic.json) is not exist or create failed 
+2025-05-01 23:02:35.143 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [framework:30010202]user config file(C:/Users/MATHESKUMAR/.rmv/config/format.mvbasic.json) doesn't exist or resource config file(/config/format.mvbasic.json) doesn't be created
+2025-05-01 23:02:35.147 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [COMMON:500101]parent file(C:/Users/MATHESKUMAR/.rmv/config/db.mvbasic.json) is not exist or create failed 
+2025-05-01 23:02:35.147 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [framework:30010202]user config file(C:/Users/MATHESKUMAR/.rmv/config/db.mvbasic.json) doesn't exist or resource config file(/config/db.mvbasic.json) doesn't be created
+2025-05-01 23:02:35.149 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010105]config load end
+2025-05-01 23:02:40.504 [main] INFO  com.rs.mv.mvvs.Startup - [LSP:100101]ROCKET MV BASIC EXTENSION to start
+2025-05-01 23:02:40.542 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100102]start pip server
+2025-05-01 23:02:40.662 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100103]ROCKET MV BASIC EXTENSION start successful
+2025-05-01 23:02:40.756 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:200101]load all workspace folders start
+2025-05-01 23:02:40.756 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:20010201]root uri: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:02:40.760 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200103]workspace contains workspace folder: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:02:40.785 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200104]workspace folder will be cached: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:02:40.785 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010101]config load start
+2025-05-01 23:02:40.785 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010102]project config path is : C:/Users/MATHESKUMAR/Desktop/mano/.rmv/config
+2025-05-01 23:02:40.785 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010103]resource config path is : /
+2025-05-01 23:02:40.789 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010104]user config path is : C:/Users/MATHESKUMAR
+2025-05-01 23:02:40.793 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [COMMON:500101]parent file(C:/Users/MATHESKUMAR/.rmv/config/format.mvbasic.json) is not exist or create failed 
+2025-05-01 23:02:40.793 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [framework:30010202]user config file(C:/Users/MATHESKUMAR/.rmv/config/format.mvbasic.json) doesn't exist or resource config file(/config/format.mvbasic.json) doesn't be created
+2025-05-01 23:02:40.797 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [COMMON:500101]parent file(C:/Users/MATHESKUMAR/.rmv/config/db.mvbasic.json) is not exist or create failed 
+2025-05-01 23:02:40.797 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [framework:30010202]user config file(C:/Users/MATHESKUMAR/.rmv/config/db.mvbasic.json) doesn't exist or resource config file(/config/db.mvbasic.json) doesn't be created
+2025-05-01 23:02:40.797 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010105]config load end
+2025-05-01 23:02:43.962 [main] INFO  com.rs.mv.mvvs.Startup - [LSP:100101]ROCKET MV BASIC EXTENSION to start
+2025-05-01 23:02:43.985 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100102]start pip server
+2025-05-01 23:02:44.076 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100103]ROCKET MV BASIC EXTENSION start successful
+2025-05-01 23:02:44.145 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:200101]load all workspace folders start
+2025-05-01 23:02:44.145 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:20010201]root uri: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:02:44.148 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200103]workspace contains workspace folder: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:02:44.170 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200104]workspace folder will be cached: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:02:44.171 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010101]config load start
+2025-05-01 23:02:44.171 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010102]project config path is : C:/Users/MATHESKUMAR/Desktop/mano/.rmv/config
+2025-05-01 23:02:44.171 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010103]resource config path is : /
+2025-05-01 23:02:44.171 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010104]user config path is : C:/Users/MATHESKUMAR
+2025-05-01 23:02:44.176 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [COMMON:500101]parent file(C:/Users/MATHESKUMAR/.rmv/config/format.mvbasic.json) is not exist or create failed 
+2025-05-01 23:02:44.176 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [framework:30010202]user config file(C:/Users/MATHESKUMAR/.rmv/config/format.mvbasic.json) doesn't exist or resource config file(/config/format.mvbasic.json) doesn't be created
+2025-05-01 23:02:44.179 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [COMMON:500101]parent file(C:/Users/MATHESKUMAR/.rmv/config/db.mvbasic.json) is not exist or create failed 
+2025-05-01 23:02:44.179 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [framework:30010202]user config file(C:/Users/MATHESKUMAR/.rmv/config/db.mvbasic.json) doesn't exist or resource config file(/config/db.mvbasic.json) doesn't be created
+2025-05-01 23:02:44.181 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010105]config load end
+2025-05-01 23:02:47.785 [main] INFO  com.rs.mv.mvvs.Startup - [LSP:100101]ROCKET MV BASIC EXTENSION to start
+2025-05-01 23:02:47.815 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100102]start pip server
+2025-05-01 23:02:47.935 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100103]ROCKET MV BASIC EXTENSION start successful
+2025-05-01 23:02:48.035 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:200101]load all workspace folders start
+2025-05-01 23:02:48.035 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:20010201]root uri: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:02:48.035 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200103]workspace contains workspace folder: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:02:48.070 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200104]workspace folder will be cached: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:02:48.073 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010101]config load start
+2025-05-01 23:02:48.073 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010102]project config path is : C:/Users/MATHESKUMAR/Desktop/mano/.rmv/config
+2025-05-01 23:02:48.074 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010103]resource config path is : /
+2025-05-01 23:02:48.074 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010104]user config path is : C:/Users/MATHESKUMAR
+2025-05-01 23:02:48.079 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [COMMON:500101]parent file(C:/Users/MATHESKUMAR/.rmv/config/format.mvbasic.json) is not exist or create failed 
+2025-05-01 23:02:48.081 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [framework:30010202]user config file(C:/Users/MATHESKUMAR/.rmv/config/format.mvbasic.json) doesn't exist or resource config file(/config/format.mvbasic.json) doesn't be created
+2025-05-01 23:02:48.083 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [COMMON:500101]parent file(C:/Users/MATHESKUMAR/.rmv/config/db.mvbasic.json) is not exist or create failed 
+2025-05-01 23:02:48.086 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [framework:30010202]user config file(C:/Users/MATHESKUMAR/.rmv/config/db.mvbasic.json) doesn't exist or resource config file(/config/db.mvbasic.json) doesn't be created
+2025-05-01 23:02:48.086 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010105]config load end
+2025-05-01 23:02:51.863 [main] INFO  com.rs.mv.mvvs.Startup - [LSP:100101]ROCKET MV BASIC EXTENSION to start
+2025-05-01 23:02:51.893 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100102]start pip server
+2025-05-01 23:02:52.017 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100103]ROCKET MV BASIC EXTENSION start successful
+2025-05-01 23:02:52.135 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:200101]load all workspace folders start
+2025-05-01 23:02:52.135 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:20010201]root uri: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:02:52.139 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200103]workspace contains workspace folder: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:02:52.172 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200104]workspace folder will be cached: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:02:52.176 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010101]config load start
+2025-05-01 23:02:52.176 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010102]project config path is : C:/Users/MATHESKUMAR/Desktop/mano/.rmv/config
+2025-05-01 23:02:52.176 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010103]resource config path is : /
+2025-05-01 23:02:52.176 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010104]user config path is : C:/Users/MATHESKUMAR
+2025-05-01 23:02:52.184 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [COMMON:500101]parent file(C:/Users/MATHESKUMAR/.rmv/config/format.mvbasic.json) is not exist or create failed 
+2025-05-01 23:02:52.184 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [framework:30010202]user config file(C:/Users/MATHESKUMAR/.rmv/config/format.mvbasic.json) doesn't exist or resource config file(/config/format.mvbasic.json) doesn't be created
+2025-05-01 23:02:52.188 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [COMMON:500101]parent file(C:/Users/MATHESKUMAR/.rmv/config/db.mvbasic.json) is not exist or create failed 
+2025-05-01 23:02:52.188 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [framework:30010202]user config file(C:/Users/MATHESKUMAR/.rmv/config/db.mvbasic.json) doesn't exist or resource config file(/config/db.mvbasic.json) doesn't be created
+2025-05-01 23:02:52.188 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010105]config load end
+2025-05-01 23:04:48.040 [main] INFO  com.rs.mv.mvvs.Startup - [LSP:100101]ROCKET MV BASIC EXTENSION to start
+2025-05-01 23:04:48.077 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100102]start pip server
+2025-05-01 23:04:48.225 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100103]ROCKET MV BASIC EXTENSION start successful
+2025-05-01 23:04:48.314 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:200101]load all workspace folders start
+2025-05-01 23:04:48.314 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:20010201]root uri: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:04:48.317 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200103]workspace contains workspace folder: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:04:48.339 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200104]workspace folder will be cached: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:04:48.341 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010101]config load start
+2025-05-01 23:04:48.341 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010102]project config path is : C:/Users/MATHESKUMAR/Desktop/mano/.rmv/config
+2025-05-01 23:04:48.343 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010103]resource config path is : /
+2025-05-01 23:04:48.343 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010104]user config path is : C:/Users/MATHESKUMAR
+2025-05-01 23:04:48.347 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [COMMON:500101]parent file(C:/Users/MATHESKUMAR/.rmv/config/format.mvbasic.json) is not exist or create failed 
+2025-05-01 23:04:48.347 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [framework:30010202]user config file(C:/Users/MATHESKUMAR/.rmv/config/format.mvbasic.json) doesn't exist or resource config file(/config/format.mvbasic.json) doesn't be created
+2025-05-01 23:04:48.351 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [COMMON:500101]parent file(C:/Users/MATHESKUMAR/.rmv/config/db.mvbasic.json) is not exist or create failed 
+2025-05-01 23:04:48.351 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [framework:30010202]user config file(C:/Users/MATHESKUMAR/.rmv/config/db.mvbasic.json) doesn't exist or resource config file(/config/db.mvbasic.json) doesn't be created
+2025-05-01 23:04:48.353 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010105]config load end
+2025-05-01 23:04:52.215 [main] INFO  com.rs.mv.mvvs.Startup - [LSP:100101]ROCKET MV BASIC EXTENSION to start
+2025-05-01 23:04:52.239 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100102]start pip server
+2025-05-01 23:04:52.363 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100103]ROCKET MV BASIC EXTENSION start successful
+2025-05-01 23:04:52.455 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:200101]load all workspace folders start
+2025-05-01 23:04:52.455 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:20010201]root uri: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:04:52.457 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200103]workspace contains workspace folder: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:04:52.491 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200104]workspace folder will be cached: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:04:52.495 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010101]config load start
+2025-05-01 23:04:52.496 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010102]project config path is : C:/Users/MATHESKUMAR/Desktop/mano/.rmv/config
+2025-05-01 23:04:52.496 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010103]resource config path is : /
+2025-05-01 23:04:52.497 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010104]user config path is : C:/Users/MATHESKUMAR
+2025-05-01 23:04:52.502 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [COMMON:500101]parent file(C:/Users/MATHESKUMAR/.rmv/config/format.mvbasic.json) is not exist or create failed 
+2025-05-01 23:04:52.504 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [framework:30010202]user config file(C:/Users/MATHESKUMAR/.rmv/config/format.mvbasic.json) doesn't exist or resource config file(/config/format.mvbasic.json) doesn't be created
+2025-05-01 23:04:52.510 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [COMMON:500101]parent file(C:/Users/MATHESKUMAR/.rmv/config/db.mvbasic.json) is not exist or create failed 
+2025-05-01 23:04:52.511 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [framework:30010202]user config file(C:/Users/MATHESKUMAR/.rmv/config/db.mvbasic.json) doesn't exist or resource config file(/config/db.mvbasic.json) doesn't be created
+2025-05-01 23:04:52.512 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010105]config load end
+2025-05-01 23:04:56.315 [main] INFO  com.rs.mv.mvvs.Startup - [LSP:100101]ROCKET MV BASIC EXTENSION to start
+2025-05-01 23:04:56.356 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100102]start pip server
+2025-05-01 23:04:56.535 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100103]ROCKET MV BASIC EXTENSION start successful
+2025-05-01 23:04:56.650 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:200101]load all workspace folders start
+2025-05-01 23:04:56.652 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:20010201]root uri: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:04:56.652 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200103]workspace contains workspace folder: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:04:56.686 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200104]workspace folder will be cached: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:04:56.688 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010101]config load start
+2025-05-01 23:04:56.688 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010102]project config path is : C:/Users/MATHESKUMAR/Desktop/mano/.rmv/config
+2025-05-01 23:04:56.688 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010103]resource config path is : /
+2025-05-01 23:04:56.688 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010104]user config path is : C:/Users/MATHESKUMAR
+2025-05-01 23:04:56.696 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [COMMON:500101]parent file(C:/Users/MATHESKUMAR/.rmv/config/format.mvbasic.json) is not exist or create failed 
+2025-05-01 23:04:56.698 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [framework:30010202]user config file(C:/Users/MATHESKUMAR/.rmv/config/format.mvbasic.json) doesn't exist or resource config file(/config/format.mvbasic.json) doesn't be created
+2025-05-01 23:04:56.701 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [COMMON:500101]parent file(C:/Users/MATHESKUMAR/.rmv/config/db.mvbasic.json) is not exist or create failed 
+2025-05-01 23:04:56.701 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [framework:30010202]user config file(C:/Users/MATHESKUMAR/.rmv/config/db.mvbasic.json) doesn't exist or resource config file(/config/db.mvbasic.json) doesn't be created
+2025-05-01 23:04:56.701 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010105]config load end
+2025-05-01 23:05:00.332 [main] INFO  com.rs.mv.mvvs.Startup - [LSP:100101]ROCKET MV BASIC EXTENSION to start
+2025-05-01 23:05:00.368 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100102]start pip server
+2025-05-01 23:05:00.500 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100103]ROCKET MV BASIC EXTENSION start successful
+2025-05-01 23:05:00.594 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:200101]load all workspace folders start
+2025-05-01 23:05:00.594 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:20010201]root uri: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:05:00.598 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200103]workspace contains workspace folder: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:05:00.627 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200104]workspace folder will be cached: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:05:00.632 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010101]config load start
+2025-05-01 23:05:00.632 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010102]project config path is : C:/Users/MATHESKUMAR/Desktop/mano/.rmv/config
+2025-05-01 23:05:00.632 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010103]resource config path is : /
+2025-05-01 23:05:00.632 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010104]user config path is : C:/Users/MATHESKUMAR
+2025-05-01 23:05:00.636 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [COMMON:500101]parent file(C:/Users/MATHESKUMAR/.rmv/config/format.mvbasic.json) is not exist or create failed 
+2025-05-01 23:05:00.636 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [framework:30010202]user config file(C:/Users/MATHESKUMAR/.rmv/config/format.mvbasic.json) doesn't exist or resource config file(/config/format.mvbasic.json) doesn't be created
+2025-05-01 23:05:00.642 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [COMMON:500101]parent file(C:/Users/MATHESKUMAR/.rmv/config/db.mvbasic.json) is not exist or create failed 
+2025-05-01 23:05:00.642 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [framework:30010202]user config file(C:/Users/MATHESKUMAR/.rmv/config/db.mvbasic.json) doesn't exist or resource config file(/config/db.mvbasic.json) doesn't be created
+2025-05-01 23:05:00.645 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010105]config load end
+2025-05-01 23:05:04.391 [main] INFO  com.rs.mv.mvvs.Startup - [LSP:100101]ROCKET MV BASIC EXTENSION to start
+2025-05-01 23:05:04.426 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100102]start pip server
+2025-05-01 23:05:04.584 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100103]ROCKET MV BASIC EXTENSION start successful
+2025-05-01 23:05:04.689 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:200101]load all workspace folders start
+2025-05-01 23:05:04.691 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:20010201]root uri: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:05:04.691 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200103]workspace contains workspace folder: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:05:04.725 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200104]workspace folder will be cached: file:///c%3A/Users/MATHESKUMAR/Desktop/mano
+2025-05-01 23:05:04.727 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010101]config load start
+2025-05-01 23:05:04.727 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010102]project config path is : C:/Users/MATHESKUMAR/Desktop/mano/.rmv/config
+2025-05-01 23:05:04.727 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010103]resource config path is : /
+2025-05-01 23:05:04.729 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010104]user config path is : C:/Users/MATHESKUMAR
+2025-05-01 23:05:04.736 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [COMMON:500101]parent file(C:/Users/MATHESKUMAR/.rmv/config/format.mvbasic.json) is not exist or create failed 
+2025-05-01 23:05:04.736 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [framework:30010202]user config file(C:/Users/MATHESKUMAR/.rmv/config/format.mvbasic.json) doesn't exist or resource config file(/config/format.mvbasic.json) doesn't be created
+2025-05-01 23:05:04.740 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [COMMON:500101]parent file(C:/Users/MATHESKUMAR/.rmv/config/db.mvbasic.json) is not exist or create failed 
+2025-05-01 23:05:04.740 [pool-3-thread-1] WARN  com.rs.mv.mvvs.rmv.config.ConfigManager - [framework:30010202]user config file(C:/Users/MATHESKUMAR/.rmv/config/db.mvbasic.json) doesn't exist or resource config file(/config/db.mvbasic.json) doesn't be created
+2025-05-01 23:05:04.740 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010105]config load end
