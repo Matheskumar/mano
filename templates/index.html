@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Fuel Cost Optimization</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Mining Fuel Cost Optimization</h1>
+
+        <div class="form-group">
+            <label for="num_machines">Number of Machines:</label>
+            <input type="number" id="num_machines" required>
+        </div>
+        <div class="form-group">
+            <label for="fuel_demand">Minimum Fuel Demand (liters):</label>
+            <input type="number" id="fuel_demand" required>
+        </div>
+        <div class="form-group">
+            <label for="total_fuel">Total Available Fuel (liters):</label>
+            <input type="number" id="total_fuel" required>
+        </div>
+
+        <div id="machine_inputs"></div>
+        <button id="optimize_btn">Optimize Fuel Allocation</button>
+
+        <div id="results" class="result-box" style="display:none;"></div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
