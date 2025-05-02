@@ -1,33 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Fuel Cost Optimization</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+  <meta charset="UTF-8">
+  <title>Fuel Dashboard</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
 </head>
 <body>
-    <div class="container">
-        <h1>Mining Fuel Cost Optimization</h1>
+  <div class="dashboard">
+    <aside class="sidebar">
+      <h2>Fuel Optimizer</h2>
+      <nav>
+        <a href="#">Dashboard</a>
+        <a href="#">Fuel Optimization</a>
+        <a href="#">Reports</a>
+      </nav>
+    </aside>
+    <main class="main-content">
+      <h1>Fuel Cost Optimization</h1>
 
-        <div class="form-group">
-            <label for="num_machines">Number of Machines:</label>
-            <input type="number" id="num_machines" required>
+      <div class="card form-card">
+        <div class="form-row">
+          <label>Number of Machines:</label>
+          <input type="number" id="num_machines">
         </div>
-        <div class="form-group">
-            <label for="fuel_demand">Minimum Fuel Demand (liters):</label>
-            <input type="number" id="fuel_demand" required>
+        <div class="form-row">
+          <label>Minimum Fuel Demand (liters):</label>
+          <input type="number" id="fuel_demand">
         </div>
-        <div class="form-group">
-            <label for="total_fuel">Total Available Fuel (liters):</label>
-            <input type="number" id="total_fuel" required>
+        <div class="form-row">
+          <label>Total Available Fuel (liters):</label>
+          <input type="number" id="total_fuel">
         </div>
+        <div id="machine_inputs" class="machine-grid"></div>
+        <button id="optimize_btn">Optimize</button>
+        <button id="reset_btn" class="reset-btn">Reset</button>
+      </div>
 
-        <div id="machine_inputs"></div>
-        <button id="optimize_btn">Optimize Fuel Allocation</button>
+      <div id="results" class="card result-card" style="display:none;"></div>
+    </main>
+  </div>
 
-        <div id="results" class="result-box" style="display:none;"></div>
-    </div>
-
-    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/script.js') }}"></script>
 </body>
 </html>
